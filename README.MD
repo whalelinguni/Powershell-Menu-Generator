@@ -5,6 +5,9 @@ Work In Progress. Menus are generated in script, can be set to a fixed size or r
 The fixed height broke when I did something. Need to look into that. Got kinda sick of working on this today.
 
 
+![PowerShell Menu](https://github.com/whalelinguni/Powershell-Menu-Generator/blob/main/PowershellMenuWL.png?raw=true)
+
+
 ## Features
 - **User-friendly menu**: Intuitive menu system for easy navigation and execution of tasks.
 - **Customizable options**: Easily customize the menu options to suit your specific needs.
